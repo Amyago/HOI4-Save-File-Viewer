@@ -4,7 +4,7 @@
 
 A modern, fast, and user-friendly desktop application for viewing, searching, converting, and comparing Hearts of Iron 4 (`.hoi4`) save files. Built for modders, content creators, and gamers.
 
-![App Screenshot or GIF](https://your-link-to-a-screenshot-or-gif.com/image.gif)
+![App Screenshot](https://github.com/Amyago/HOI4-Save-File-Viewer/blob/main/preview.JPG)
 
 
 ---
